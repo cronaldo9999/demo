@@ -1,5 +1,6 @@
 {
   "clients": [
-    
+    {"id": 1, "name": "Comcast"},
+    {"id": 2, "name": "AT&T"}
   ]
 }
